@@ -1,0 +1,24 @@
+*{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+img{
+    height: 400px;
+    width: auto;
+}
+
+div .desc{
+    background-color: white;
+    }
+
+.fancy{
+    text-align: center;
+    background-color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
